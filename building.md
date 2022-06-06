@@ -96,5 +96,3 @@ sudo make install
 ```
 
 After this, you can run Lotus via the use of `lotus-system-<system-architecture-here>`
-
-### Done! Enjoy.
